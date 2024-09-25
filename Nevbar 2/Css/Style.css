@@ -1,0 +1,93 @@
+body{
+   
+    background-image: cover;
+overflow: hidden;
+}
+
+.one{
+    color: rgb(14, 185, 185);
+    font-weight: bold;
+    margin-left: 100px;
+    font-size: 28px;
+    font-family: sans-serif;
+    margin-top: 30px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+a:hover{
+    color: rgb(14, 185, 185);
+padding: 7px;
+border: 2px solid rgb(14, 185, 185) ;
+
+}
+.three{
+position: relative;
+top: -30px;
+left: 900px;
+
+}
+img{
+    width:1900px;
+    height: 850px;
+   filter: brightness(30%);
+
+}
+.text{
+    color: white;
+    width: 400px;
+    font-size: 30px;
+    position: relative;
+    top: -650px;
+    left: 250px;
+    font-family: sans-serif;
+
+}
+.color{ 
+    color: rgb(14, 185, 185);
+    font-size: 40px;
+}
+.two{
+font-size: 17px;
+font-family: sans-serif;
+}
+.change1{
+    padding: 10px;
+    background-color: rgb(12, 144, 144);
+    color: white;
+    border: none;
+}
+.change1:hover{
+   
+    color: rgb(12, 144, 144) ;
+    background-color:white ;
+   font-weight: bold;
+   transform: scale(1.2);
+   border: 2px solid rgb(12, 144, 144);
+}
+.change2{
+    padding: 10px;
+    background-color: rgb(12, 144, 144);
+    color: white;
+    margin-left: 10px;
+    margin-top: 15px;
+    border: none;
+}
+.change2:hover{
+   
+    color:rgb(12, 144, 144) ;
+    background-color:white ;
+   font-weight: bold;
+   border: 2px solid rgb(12, 144, 144);
+   transform: scale(1.2);
+}
+.fit{
+padding: 30px;
+background-color: white;
+width: 1000px;
+}
